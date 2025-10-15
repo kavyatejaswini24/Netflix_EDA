@@ -27,7 +27,7 @@ Potential for Expansion
 
 The project also identifies the potential for integrating external datasets (such as IMDB ratings or Rotten Tomatoes scores) in the future to yield deeper insights into content popularity and critical reception.
 
-*8Problem Statement**
+**Problem Statement**
 Netflix, a dominant global streaming platform, is undergoing a significant strategic transformation in its content library. A report from 2018 indicated that since 2010, the platform's focus has dramatically shifted, resulting in a near-tripling of TV show titles and a reduction of over 2,000 movie titles.
 
 This project seeks to address the following questions using the Netflix dataset:
