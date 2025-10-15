@@ -42,6 +42,7 @@ The successful completion of this project will provide data-driven insights into
 
 
 **Business Objesctive**
+
 The project tasks directly align with several key business goals for a streaming platform like Netflix:
 
 1.Strategic Content Investment Objective: To validate and understand the content strategy shift.
