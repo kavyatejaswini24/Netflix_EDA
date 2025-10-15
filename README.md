@@ -1,11 +1,11 @@
 **Project Name - Netflix Content Analysis and Clustering**
-keyboard_arrow_down
+
 **Project Summary -**
-Objective
+**Objective**
 
 The primary goal is to explore the evolution of Netflix's content catalog and develop a model to cluster similar content. This is motivated by a 2018 Flixable report indicating a significant strategic shift where the number of TV shows nearly tripled since 2010, while the number of movies decreased by over 2,000 titles.
 
-Key Deliverables
+**Key Deliverables**
 
 Exploratory Data Analysis (EDA):
 
@@ -27,12 +27,7 @@ Potential for Expansion
 
 The project also identifies the potential for integrating external datasets (such as IMDB ratings or Rotten Tomatoes scores) in the future to yield deeper insights into content popularity and critical reception.
 
-keyboard_arrow_down
-GitHub Link -
-https://github.com/kavyatejaswini24/Netflix_EDA/blob/main/Netflix_EDA.ipynb
-
-keyboard_arrow_down
-Problem Statement
+*8Problem Statement**
 Netflix, a dominant global streaming platform, is undergoing a significant strategic transformation in its content library. A report from 2018 indicated that since 2010, the platform's focus has dramatically shifted, resulting in a near-tripling of TV show titles and a reduction of over 2,000 movie titles.
 
 This project seeks to address the following questions using the Netflix dataset:
@@ -45,8 +40,8 @@ Content Discoverability: Can an unsupervised learning model (clustering) be buil
 
 The successful completion of this project will provide data-driven insights into Netflix's evolving content strategy and establish a foundational clustering model for its diverse catalog.
 
-keyboard_arrow_down
-Define Your Business Objective?
+
+**Business Objesctive**
 The project tasks directly align with several key business goals for a streaming platform like Netflix:
 
 1.Strategic Content Investment Objective: To validate and understand the content strategy shift.
